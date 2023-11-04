@@ -1,3 +1,3 @@
 <?php
 
-    header('Location: admin/login');
+    header('Location: admin/inicial');
