@@ -44,7 +44,7 @@
 
             <div class="mb-3">
                 <label for="txtTelefone" class="form-label">Telefone</label>
-                <input type="tel" class="form-control" id="txtTelefone" name="txtTelefone" data-mask="(00) 0.0000-0000">
+                <input type="tel" class="form-control" id="txtTelefone" name="txtTelefone" data-mask="(00) 00000-0000">
             </div>
 
             
