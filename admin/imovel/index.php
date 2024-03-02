@@ -63,7 +63,7 @@
             </form>
         </section>
 
-
+        <a href="mapa.php" class="btn btn-sm btn-outline-secondary mb-3">Ver no mapa</a>
         <table class="table table-striped table-hover">
 
             <thead>
